@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/george-shammar/DeFinsiv/issues"
   },
-  "homepage": "https://github.com/george-shammar/DeFinsiv#readme"
+  "homepage": "https://github.com/george-shammar/DeFinsiv#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^4.3.2"
+  }
 }
